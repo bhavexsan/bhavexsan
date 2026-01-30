@@ -1,20 +1,24 @@
-## Hi, I'm Bhavana 👋
+# Hi, I'm Bhavana Sanal 👋✨
 
-- First year engineering student  
-- Exploring tech & building cool things  
-- Learning Git, GitHub & open source 🚀
+🎓 First year engineering student  
+🌱 Currently learning Git, GitHub & basics of programming  
+💡 Curious about technology, startups & problem solving  
 
-<!--
-**bhavexsan/bhavexsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔧 Skills I'm Exploring
+- Git & GitHub  
+- Python / C 
+- VS Code  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌈 What I'm excited about
+- Building real projects  
+- Open source contributions  
+- Learning by doing  
+
+---
+
+📫 Reach me:
+- GitHub: https://github.com/bhavexsan
