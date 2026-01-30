@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Bhavana 👋
+
+- First year engineering student  
+- Exploring tech & building cool things  
+- Learning Git, GitHub & open source 🚀
 
 <!--
 **bhavexsan/bhavexsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
